@@ -2,7 +2,7 @@
 
 max30102(Spo2); 
 
-nabiz+74hc14 ic + exti(Nabiz sayacı(bpm)); 
+Pulse sensor+74hc14 ic + exti(Nabiz sayacı(bpm)); 
 
 gps parser;bme280(basınç+nem+sıcaklık); 
 
